@@ -1,0 +1,1 @@
+Ecomzy - Shopping Cart" is a web application that allows users to browse and purchase products online. It offers a seamless shopping experience with features like adding and removing items from the cart, displaying the total amount of items in the cart, and a checkout option.
